@@ -1,25 +1,43 @@
-# 💫 About Me:
-🔭 I’m currently working on me-dt framework.<br>👯 I’m looking to collaborate on FloraCare 🌿.<br>🌱 I’m currently learning Rust and WASM.<br>💬 Ask me about robotics and physical application of code. <br>⚡ Fun fact i play league semi-professionally.
+# Isli Basha
 
+> Building fast, minimal, useful software.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mr.lahi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/IsliBasha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:islibasha1@gmail.com) 
-
-# 💻 Tech Stack:
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=IsliBasha&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=IsliBasha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=IsliBasha&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=IsliBasha&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+Developer in Tirana, Albania. I work across the stack — Python backends, Kotlin Android apps, and increasingly Rust for edge compute. Currently finishing a bachelor's thesis on cyber-physical threat detection using digital twins.
 
 ---
-[![](https://komarev.com/ghpvc/?username=IsliBasha&icon=9)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/IsliBasha) 
+## Projects
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| | |
+|---|---|
+| [**me-dt-framework**](https://github.com/IsliBasha/me-dt-framework) | Mythos-Enhanced Digital Twin — anomaly detection for smart city infrastructure *(thesis)* |
+| [**Whatsapp-Chatbot**](https://github.com/IsliBasha/Whatsapp-Chatbot) | WhatsApp business bot — NLP intent detection + Odoo XML-RPC product search |
+| [**FloraCare**](https://github.com/IsliBasha/FloraCare) | Android plant care app — Kotlin + Jetpack Compose + Perenual species API |
+| [**cf-worker-rust**](https://github.com/IsliBasha/cf-worker-rust) | JWT validation + per-IP rate limiting at the Cloudflare edge, compiled to WASM |
+| [**albanian-study-app**](https://github.com/IsliBasha/albanian-study-app) | AI study companion — upload PDFs, generate flashcards, quiz via FastAPI + PyQt6 |
+| [**isli-basha-portfolio**](https://isli-basha-portfolio.vercel.app/) | Win95-style portfolio — React 19 + Vite |
+
+---
+
+## Stack
+
+**Languages** — Python · TypeScript · Kotlin · Rust · Go  
+**Backend** — FastAPI · Express · Node.js  
+**Mobile** — Jetpack Compose  
+**Edge** — Cloudflare Workers · WebAssembly  
+
+---
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsliBasha&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Streak](https://streak-stats.demolab.com/?user=IsliBasha&theme=dark&hide_border=true)
+
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://isli-basha-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/IsliBasha)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:islibasha1@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/mr.lahi)
