@@ -14,7 +14,7 @@ Developer in Tirana, Albania. I work across the stack — Python backends, Kotli
 | [**Whatsapp-Chatbot**](https://github.com/IsliBasha/Whatsapp-Chatbot) | WhatsApp business bot — NLP intent detection + Odoo XML-RPC product search |
 | [**FloraCare**](https://github.com/IsliBasha/FloraCare) | Android plant care app — Kotlin + Jetpack Compose + Perenual species API |
 | [**cf-worker-rust**](https://github.com/IsliBasha/cf-worker-rust) | JWT validation + per-IP rate limiting at the Cloudflare edge, compiled to WASM |
-| [**albanian-study-app**](https://github.com/IsliBasha/albanian-study-app) | AI study companion — upload PDFs, generate flashcards, quiz via FastAPI + PyQt6 |
+| [**mira-study**](https://github.com/IsliBasha/mira-study) | AI study companion — upload PDFs, generate flashcards, quiz via FastAPI + PyQt6 |
 | [**isli-basha-portfolio**](https://isli-basha-portfolio.vercel.app/) | Win95-style portfolio — React 19 + Vite |
 
 ---
