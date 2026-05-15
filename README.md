@@ -30,8 +30,9 @@ Developer in Tirana, Albania. I work across the stack — Python backends, Kotli
 
 ## Stats
 
-
 ![Streak](https://streak-stats.demolab.com/?user=IsliBasha&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsliBasha&theme=dark&hide_border=true&layout=compact&cache_seconds=14400)
 
 ---
 
