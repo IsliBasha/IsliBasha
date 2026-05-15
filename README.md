@@ -21,10 +21,10 @@ Developer in Tirana, Albania. I work across the stack — Python backends, Kotli
 
 ## Stack
 
-**Languages** — Python · TypeScript · Kotlin · Rust · Go  
-**Backend** — FastAPI · Express · Node.js  
-**Mobile** — Jetpack Compose  
-**Edge** — Cloudflare Workers · WebAssembly  
+**Languages** — TypeScript · Go · Rust · Python  
+**Frontend** — React / Next.js · Svelte / SvelteKit · Tailwind CSS · Three.js  
+**Backend** — Node.js · Fiber (Go) · Hono · tRPC / GraphQL  
+**Infra** — Docker · Vercel / Cloudflare Workers · Turso / PostgreSQL / Redis · GitHub Actions  
 
 ---
 
