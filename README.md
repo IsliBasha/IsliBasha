@@ -39,8 +39,10 @@ detection using digital twins.
 
 ## Stats
 
-![Isli Basha's GitHub stats](https://raw.githubusercontent.com/IsliBasha/Github-Stats/generated/overview.svg)
-![Most-used languages](https://raw.githubusercontent.com/IsliBasha/Github-Stats/generated/languages.svg)
+![Isli Basha's GitHub stats](https://raw.githubusercontent.com/IsliBasha/Github-Stats/generated/overview.svg#gh-dark-mode-only)
+![Isli Basha's GitHub stats](https://raw.githubusercontent.com/IsliBasha/Github-Stats/generated/overview.svg#gh-light-mode-only)
+![Most-used languages](https://raw.githubusercontent.com/IsliBasha/Github-Stats/generated/languages.svg#gh-dark-mode-only)
+![Most-used languages](https://raw.githubusercontent.com/IsliBasha/Github-Stats/generated/languages.svg#gh-light-mode-only)
 
 ---
 
