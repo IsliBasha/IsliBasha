@@ -18,7 +18,7 @@ detection using digital twins.
 | [**java-advanced-programming**](https://github.com/IsliBasha/java-advanced-programming) | Nine university Java projects — Collections/Streams console apps + Spring Boot 3 REST APIs (JPA, validation, JUnit 5) | Java 21 · Spring Boot |
 | [**publer-mcp**](https://github.com/IsliBasha/publer-mcp) | Social-media management server over the Model Context Protocol | TypeScript · MCP |
 | [**FloraCare**](https://github.com/IsliBasha/FloraCare) | Android plant-care app — species lookup + weather-aware watering reminders | Kotlin · Compose |
-| [**isli-basha-portfolio**](https://isli-basha-portfolio.vercel.app/) ↗ | Win95-style personal portfolio — *live demo* | React 19 · Vite |
+| [**isli-basha-portfolio**](https://islibasha.dev/) ↗ | Win95-style personal portfolio — *live demo* | React 19 · Vite |
 
 ---
 
@@ -48,6 +48,6 @@ detection using digital twins.
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://isli-basha-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://islibasha.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islibasha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:islibasha1@gmail.com)
