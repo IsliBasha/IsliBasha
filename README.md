@@ -33,7 +33,7 @@ detection using digital twins.
 
 ## Currently
 
-🔭 Finishing my bachelor's thesis (digital-twin threat detection) &nbsp;·&nbsp; 🌱 Going deeper on Rust systems + edge compute &nbsp;·&nbsp; 💬 Ask me about Spring Boot, Rust/WASM, or MCP servers
+ Finishing my bachelor's thesis (digital-twin threat detection) &nbsp;·&nbsp;  Going deeper on Rust systems + edge compute &nbsp;·&nbsp;  Ask me about Spring Boot, Rust/WASM, or MCP servers
 
 ---
 
