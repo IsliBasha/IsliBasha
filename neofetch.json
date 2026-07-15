@@ -28,7 +28,6 @@
   ],
   "sections": [
     {
-      "title": "{{username}}@github",
       "fields": [
         { "key": "Name", "value": "Isli Basha" },
         { "key": "Location", "value": "{{location}}" },
