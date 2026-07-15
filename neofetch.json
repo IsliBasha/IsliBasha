@@ -11,8 +11,12 @@
       ]
     },
     {
+      "title": "- Stack",
       "fields": [
         { "key": "Languages", "value": "{{languages}}" },
+        { "key": "Backend", "value": "Spring Boot · Flask/FastAPI · Node/Express · MCP" },
+        { "key": "Frontend", "value": "React · Astro · Tailwind · Compose" },
+        { "key": "Infra", "value": "Docker · GH Actions · Cloudflare · Vercel" },
         { "key": "IDE", "value": "VSCode" }
       ]
     },
@@ -25,7 +29,7 @@
     {
       "title": "- Contact",
       "fields": [
-        { "key": "Email", "value": "{{email}}" },
+        { "key": "Email", "value": "islibasha1@gmail.com" },
         { "key": "Website", "value": "https://islibasha.dev" },
         { "key": "LinkedIn", "value": "linkedin.com/in/islibasha" }
       ]

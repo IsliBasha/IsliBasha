@@ -2,9 +2,14 @@
 
 > Building fast, minimal, useful software — across the stack and close to the metal.
 
-Agent & Automation Specialist at Ofive Global, based in Tirana, Albania. I build
-across languages and layers: Python and Java backends, React/Astro frontends,
-Kotlin on Android, and Rust for systems and edge/WASM.
+<p align="center">
+  <a href="https://github.com/jeantimex/neofetch-profile">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=IsliBasha&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FIsliBasha%2FIsliBasha%2Fmain%2Fneofetch.json">
+      <img alt="Isli Basha's neofetch card" src="https://neofetch-profile.vercel.app/api?username=IsliBasha&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2FIsliBasha%2FIsliBasha%2Fmain%2Fneofetch.json">
+    </picture>
+  </a>
+</p>
 
 ---
 
@@ -18,34 +23,6 @@ Kotlin on Android, and Rust for systems and edge/WASM.
 | [**publer-mcp**](https://github.com/IsliBasha/publer-mcp) | Social-media management server over the Model Context Protocol | TypeScript · MCP |
 | [**FloraCare**](https://github.com/IsliBasha/FloraCare) | Android plant-care app — species lookup + weather-aware watering reminders | Kotlin · Compose |
 | [**isli-basha-portfolio**](https://islibasha.dev/) ↗ | Win95-style personal portfolio — *live demo* | React 19 · Vite |
-
----
-
-## Stack
-
-**Languages** — Python · JavaScript / TypeScript · Rust · Java · Kotlin
-**Backend** — Spring Boot (JPA) · Flask / FastAPI · Node.js / Express · MCP servers
-**Frontend** — React (Vite) · Astro · Tailwind CSS · Jetpack Compose
-**Infra** — Docker · GitHub Actions · Cloudflare Workers (WASM) · Vercel · SQLite / PostgreSQL
-
----
-
-## Currently
-
- Building agentic automation systems at Ofive Global &nbsp;·&nbsp;  Going deeper on Rust systems + edge compute &nbsp;·&nbsp;  Ask me about Spring Boot, Rust/WASM, or MCP servers
-
----
-
-## Stats
-
-<p align="center">
-  <a href="https://github.com/jeantimex/neofetch-profile">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=IsliBasha&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FIsliBasha%2FIsliBasha%2Fmain%2Fneofetch.json">
-      <img alt="Isli Basha's neofetch card" src="https://neofetch-profile.vercel.app/api?username=IsliBasha&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2FIsliBasha%2FIsliBasha%2Fmain%2Fneofetch.json">
-    </picture>
-  </a>
-</p>
 
 ---
 
