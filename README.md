@@ -2,10 +2,9 @@
 
 > Building fast, minimal, useful software — across the stack and close to the metal.
 
-Software engineer in Tirana, Albania. I build across languages and layers: Python
-and Java backends, React/Astro frontends, Kotlin on Android, and Rust for systems
-and edge/WASM. Currently wrapping a bachelor's thesis on cyber-physical threat
-detection using digital twins.
+Agent & Automation Specialist at Ofive Global, based in Tirana, Albania. I build
+across languages and layers: Python and Java backends, React/Astro frontends,
+Kotlin on Android, and Rust for systems and edge/WASM.
 
 ---
 
@@ -33,16 +32,20 @@ detection using digital twins.
 
 ## Currently
 
- Finishing my bachelor's thesis (digital-twin threat detection) &nbsp;·&nbsp;  Going deeper on Rust systems + edge compute &nbsp;·&nbsp;  Ask me about Spring Boot, Rust/WASM, or MCP servers
+ Building agentic automation systems at Ofive Global &nbsp;·&nbsp;  Going deeper on Rust systems + edge compute &nbsp;·&nbsp;  Ask me about Spring Boot, Rust/WASM, or MCP servers
 
 ---
 
 ## Stats
 
-![Isli Basha's GitHub stats](https://raw.githubusercontent.com/IsliBasha/Github-Stats/generated/overview.svg#gh-dark-mode-only)
-![Isli Basha's GitHub stats](https://raw.githubusercontent.com/IsliBasha/Github-Stats/generated/overview.svg#gh-light-mode-only)
-![Most-used languages](https://raw.githubusercontent.com/IsliBasha/Github-Stats/generated/languages.svg#gh-dark-mode-only)
-![Most-used languages](https://raw.githubusercontent.com/IsliBasha/Github-Stats/generated/languages.svg#gh-light-mode-only)
+<p align="center">
+  <a href="https://github.com/jeantimex/neofetch-profile">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=IsliBasha&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FIsliBasha%2FIsliBasha%2Fmain%2Fneofetch.json">
+      <img alt="Isli Basha's neofetch card" src="https://neofetch-profile.vercel.app/api?username=IsliBasha&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2FIsliBasha%2FIsliBasha%2Fmain%2Fneofetch.json">
+    </picture>
+  </a>
+</p>
 
 ---
 
