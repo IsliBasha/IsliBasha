@@ -14,16 +14,17 @@
       "title": "- Stack",
       "fields": [
         { "key": "Languages", "value": "{{languages}}" },
-        { "key": "Backend", "value": "Spring Boot · Flask/FastAPI · Node/Express · MCP" },
+        { "key": "Backend", "value": "Spring Boot · Flask/FastAPI · Node · MCP" },
         { "key": "Frontend", "value": "React · Astro · Tailwind · Compose" },
         { "key": "Infra", "value": "Docker · GH Actions · Cloudflare · Vercel" },
         { "key": "IDE", "value": "VSCode" }
       ]
     },
     {
+      "title": "- Hobbies",
       "fields": [
-        { "key": "Hobbies.Software", "value": "Agentic systems, Rust/WASM, edge compute" },
-        { "key": "Hobbies.Hardware", "value": "Robotics, LIDAR systems" }
+        { "key": "Software", "value": "Agentic systems, Rust/WASM, edge compute" },
+        { "key": "Hardware", "value": "Robotics, LIDAR systems" }
       ]
     },
     {
