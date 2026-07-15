@@ -3,10 +3,10 @@
 > Building fast, minimal, useful software — across the stack and close to the metal.
 
 <p align="center">
-  <a href="https://github.com/jeantimex/neofetch-profile">
+  <a href="https://github.com/IsliBasha/neofetch-profile">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=IsliBasha&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FIsliBasha%2FIsliBasha%2Fmain%2Fneofetch.json">
-      <img alt="Isli Basha's neofetch card" src="https://neofetch-profile.vercel.app/api?username=IsliBasha&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2FIsliBasha%2FIsliBasha%2Fmain%2Fneofetch.json">
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile-gamma.vercel.app/api?username=IsliBasha&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FIsliBasha%2FIsliBasha%2Fmain%2Fneofetch.json">
+      <img alt="Isli Basha's neofetch card" src="https://neofetch-profile-gamma.vercel.app/api?username=IsliBasha&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2FIsliBasha%2FIsliBasha%2Fmain%2Fneofetch.json">
     </picture>
   </a>
 </p>
