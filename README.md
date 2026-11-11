@@ -1,12 +1,12 @@
 # Isli Basha
 
-> Building fast, minimal, useful software — across the stack and close to the metal.
+> Software Engineer at Ofive Global, Tirana. Building fast, minimal, useful software — across the stack and close to the metal.
 
 <p align="center">
   <a href="https://github.com/IsliBasha/neofetch-profile">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile-gamma.vercel.app/api?username=IsliBasha&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FIsliBasha%2FIsliBasha%2Fmain%2Fneofetch.json&v=4">
-      <img alt="Isli Basha's neofetch card" src="https://neofetch-profile-gamma.vercel.app/api?username=IsliBasha&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2FIsliBasha%2FIsliBasha%2Fmain%2Fneofetch.json&v=4">
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile-gamma.vercel.app/api?username=IsliBasha&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FIsliBasha%2FIsliBasha%2Fmain%2Fneofetch.json&v=5">
+      <img alt="Isli Basha's neofetch card" src="https://neofetch-profile-gamma.vercel.app/api?username=IsliBasha&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2FIsliBasha%2FIsliBasha%2Fmain%2Fneofetch.json&v=5">
     </picture>
   </a>
 </p>
@@ -17,6 +17,8 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**MOS VONO**](https://mosvono.al/) ↗ | Albanian marketplace for tasks and local services — bids, private job space, escrowed payments; Android + iOS app in store testing *(live site)* | Node.js · PostgreSQL · React Native |
+| [**Liper**](https://liperalbania.com/) ↗ | Bilingual B2B catalogue and partner lead-generation site for LED lighting *(live, client)* | Next.js 16 · TypeScript |
 | [**rust-scraper**](https://github.com/IsliBasha/rust-scraper) | Production-grade web scraper — hybrid HTTP/headless, CSS+XPath extraction, TUI + web dashboard, single self-contained binary | Rust · SQLite |
 | [**me-dt-framework**](https://github.com/IsliBasha/me-dt-framework) | Mythos-Enhanced Digital Twin — anomaly detection for smart-city cyber-physical systems *(thesis)* | Python · Flask |
 | [**java-advanced-programming**](https://github.com/IsliBasha/java-advanced-programming) | Nine university Java projects — Collections/Streams console apps + Spring Boot 3 REST APIs (JPA, validation, JUnit 5) | Java 21 · Spring Boot |

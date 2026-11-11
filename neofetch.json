@@ -31,6 +31,7 @@
       "fields": [
         { "key": "Name", "value": "Isli Basha" },
         { "key": "Location", "value": "{{location}}" },
+        { "key": "Role", "value": "Software Engineer" },
         { "key": "Company", "value": "Ofive Global" },
         { "key": "Created", "value": "{{created}}" },
         { "key": "Uptime", "value": "{{uptime}}" }
